@@ -2,3 +2,4 @@
 
 1. [Neues Instrumentalensemble Hamburg](https://www.nih-hamburg.de/)
 2. [Haydn-Orchester Hamburg](https://www.haydn-orchester.de)
+3. [Hamburger Orchestergemeinschaft](https://hamburgerorchestergemeinschaft.de)
